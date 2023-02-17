@@ -26,6 +26,11 @@
     "vite": "^4.1.0"
   },
   "dependencies": {
+    "buffer": "^6.0.3",
+    "jszip": "^3.10.1",
+    "node-zip": "^1.0.1",
+    "sql.js": "^1.8.0",
+    "sqlite3": "^5.1.4",
     "svelte-routing": "^1.6.0"
   }
 }
